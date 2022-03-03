@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61e48c72-3b89-4b8b-b0de-2ec361188935" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/eduyot-web.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/eduyot-web.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eduyot-web.iws" beforeDir="false" afterPath="$PROJECT_DIR$/eduyot-web.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages-communities-communities-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-communities-communities-module.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +13,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1szneANTfuIEXXnFkzvqKIaCiQC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,6 +46,7 @@
       <workItem from="1621884384291" duration="1897000" />
       <workItem from="1623340818602" duration="756000" />
       <workItem from="1636527224635" duration="2986000" />
+      <workItem from="1646293473001" duration="955000" />
     </task>
     <task id="LOCAL‎00001" summary="base">
       <created>1621884477004</created>
@@ -46,7 +54,13 @@
       <option name="presentableId" value="LOCAL‎00001" />
       <updated>1621884477004</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎00002" summary="fixes">
+      <created>1646293667622</created>
+      <option name="number" value="LOCAL‎00002" />
+      <option name="presentableId" value="LOCAL‎00002" />
+      <updated>1646293667622</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,6 +70,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="base" />
-    <option name="LAST_COMMIT_MESSAGE" value="base" />
+    <MESSAGE value="fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
   </component>
 </project>
