@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61e48c72-3b89-4b8b-b0de-2ec361188935" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/eduyot-web.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/eduyot-web.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eduyot-web.iws" beforeDir="false" afterPath="$PROJECT_DIR$/eduyot-web.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/pages-communities-communities-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-communities-communities-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages-communities-communities-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-communities-communities-module.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages-community-info-community-info-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-community-info-community-info-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages-community-info-community-info-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-community-info-community-info-module.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages-playback-list-playback-list-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-playback-list-playback-list-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages-playback-list-playback-list-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-playback-list-playback-list-module.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages-subtitle-category-subtitle-category-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-subtitle-category-subtitle-category-module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/pages-subtitle-category-subtitle-category-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-subtitle-category-subtitle-category-module.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/styles.css.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +34,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1szneANTfuIEXXnFkzvqKIaCiQC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -30,11 +45,14 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="aspect.path.notification.shown" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/eduyot/github/eduyot-web/eduyot-web.ipr"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,7 +64,10 @@
       <workItem from="1621884384291" duration="1897000" />
       <workItem from="1623340818602" duration="756000" />
       <workItem from="1636527224635" duration="2986000" />
-      <workItem from="1646293473001" duration="955000" />
+      <workItem from="1646293473001" duration="1688000" />
+      <workItem from="1648475827917" duration="3595000" />
+      <workItem from="1648535480769" duration="598000" />
+      <workItem from="1669735285742" duration="602000" />
     </task>
     <task id="LOCAL‎00001" summary="base">
       <created>1621884477004</created>
@@ -60,17 +81,42 @@
       <option name="presentableId" value="LOCAL‎00002" />
       <updated>1646293667622</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎00003" summary="Merge branch 'main' of https://github.com/zbirer/eduyot-web&#10;&#10;# Conflicts:&#10;#&#9;www/main.js&#10;#&#9;www/pages-communities-communities-module.js">
+      <created>1646294532281</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1646294532281</updated>
+    </task>
+    <task id="LOCAL‎00004" summary="add mp3 files">
+      <created>1648478265315</created>
+      <option name="number" value="LOCAL‎00004" />
+      <option name="presentableId" value="LOCAL‎00004" />
+      <updated>1648478265315</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="base" />
     <MESSAGE value="fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
+    <MESSAGE value="Merge branch 'main' of https://github.com/zbirer/eduyot-web&#10;&#10;# Conflicts:&#10;#&#9;www/main.js&#10;#&#9;www/pages-communities-communities-module.js" />
+    <MESSAGE value="add mp3 files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mp3 files" />
   </component>
 </project>
