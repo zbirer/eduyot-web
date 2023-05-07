@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61e48c72-3b89-4b8b-b0de-2ec361188935" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/eduyot-web.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/eduyot-web.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eduyot-web.iws" beforeDir="false" afterPath="$PROJECT_DIR$/eduyot-web.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/pages-communities-communities-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-communities-communities-module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/pages-communities-communities-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-communities-communities-module.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/pages-community-info-community-info-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-community-info-community-info-module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/pages-community-info-community-info-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-community-info-community-info-module.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/pages-playback-list-playback-list-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-playback-list-playback-list-module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/pages-playback-list-playback-list-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-playback-list-playback-list-module.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/pages-subtitle-category-subtitle-category-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-subtitle-category-subtitle-category-module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/pages-subtitle-category-subtitle-category-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-subtitle-category-subtitle-category-module.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/styles.css.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +36,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/eduyot/github/eduyot-web/eduyot-web.ipr"
+    "last_opened_file_path": "C:/eduyot/github/eduyot-web/eduyot-web.ipr",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -68,6 +55,7 @@
       <workItem from="1648475827917" duration="3595000" />
       <workItem from="1648535480769" duration="598000" />
       <workItem from="1669735285742" duration="602000" />
+      <workItem from="1683455143696" duration="1244000" />
     </task>
     <task id="LOCAL‎00001" summary="base">
       <created>1621884477004</created>
@@ -93,7 +81,14 @@
       <option name="presentableId" value="LOCAL‎00004" />
       <updated>1648478265315</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="גרסה חדשה">
+      <created>1683455228451</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683455228451</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +112,7 @@
     <MESSAGE value="fixes" />
     <MESSAGE value="Merge branch 'main' of https://github.com/zbirer/eduyot-web&#10;&#10;# Conflicts:&#10;#&#9;www/main.js&#10;#&#9;www/pages-communities-communities-module.js" />
     <MESSAGE value="add mp3 files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mp3 files" />
+    <MESSAGE value="גרסה חדשה" />
+    <option name="LAST_COMMIT_MESSAGE" value="גרסה חדשה" />
   </component>
 </project>
