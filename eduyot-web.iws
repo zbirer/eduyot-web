@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61e48c72-3b89-4b8b-b0de-2ec361188935" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/eduyot-web.iws" beforeDir="false" afterPath="$PROJECT_DIR$/eduyot-web.iws" afterDir="false" />
-    </list>
+    <list default="true" id="61e48c72-3b89-4b8b-b0de-2ec361188935" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +53,7 @@
       <workItem from="1648475827917" duration="3595000" />
       <workItem from="1648535480769" duration="598000" />
       <workItem from="1669735285742" duration="602000" />
-      <workItem from="1683455143696" duration="1244000" />
+      <workItem from="1683455143696" duration="1410000" />
     </task>
     <task id="LOCAL‎00001" summary="base">
       <created>1621884477004</created>
