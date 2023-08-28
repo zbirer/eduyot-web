@@ -53,7 +53,7 @@
       <workItem from="1648475827917" duration="3595000" />
       <workItem from="1648535480769" duration="598000" />
       <workItem from="1669735285742" duration="602000" />
-      <workItem from="1683455143696" duration="1410000" />
+      <workItem from="1683455143696" duration="1706000" />
     </task>
     <task id="LOCAL‎00001" summary="base">
       <created>1621884477004</created>
@@ -86,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683455228451</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="גרסה חדשה2">
+      <created>1683456973755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683456973755</updated>
+    </task>
+    <task id="LOCAL-00007" summary="גרסה חדשה2">
+      <created>1683456992965</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683456992965</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +125,7 @@
     <MESSAGE value="Merge branch 'main' of https://github.com/zbirer/eduyot-web&#10;&#10;# Conflicts:&#10;#&#9;www/main.js&#10;#&#9;www/pages-communities-communities-module.js" />
     <MESSAGE value="add mp3 files" />
     <MESSAGE value="גרסה חדשה" />
-    <option name="LAST_COMMIT_MESSAGE" value="גרסה חדשה" />
+    <MESSAGE value="גרסה חדשה2" />
+    <option name="LAST_COMMIT_MESSAGE" value="גרסה חדשה2" />
   </component>
 </project>
