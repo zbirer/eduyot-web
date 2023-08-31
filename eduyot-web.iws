@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61e48c72-3b89-4b8b-b0de-2ec361188935" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/www/assets/imgs/birkinau-camp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/assets/imgs/oshvitz-camp.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eduyot-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eduyot-web.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eduyot-web.iws" beforeDir="false" afterPath="$PROJECT_DIR$/eduyot-web.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/pages-communities-communities-module.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-communities-communities-module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/pages-communities-communities-module.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/pages-communities-communities-module.js.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +31,16 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/eduyot/github/eduyot-web/eduyot-web.ipr&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/eduyot/github/eduyot-web/eduyot-web.ipr",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +57,7 @@
       <workItem from="1648535480769" duration="598000" />
       <workItem from="1669735285742" duration="602000" />
       <workItem from="1683455143696" duration="1706000" />
-      <workItem from="1693248162050" duration="521000" />
+      <workItem from="1693248162050" duration="1152000" />
     </task>
     <task id="LOCAL‎00001" summary="base">
       <created>1621884477004</created>
@@ -111,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683456992965</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new version">
+      <created>1693248705894</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693248705894</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +137,7 @@
     <MESSAGE value="add mp3 files" />
     <MESSAGE value="גרסה חדשה" />
     <MESSAGE value="גרסה חדשה2" />
-    <option name="LAST_COMMIT_MESSAGE" value="גרסה חדשה2" />
+    <MESSAGE value="new version" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version" />
   </component>
 </project>
