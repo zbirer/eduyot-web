@@ -551,7 +551,7 @@ const SALONIKY_ANO_POLI = `
 <p>המבצר ממוקם בפינה הצפון מזרחית של האקרופוליס של העיר. ממקום זה ישנה נקודת תצפית גבוהה, שממנה ניתן להשקיף על מפרץ סלוניקי ועל העיר התחתית.  זו שבעבר שימשה את מרחב החיים היהודי בסלוניקי. גבולות הנוף הנשקף מנקודת תצפית זו הם: מימין שכונת הברון הירש ותחנת הרכבת ומשמאל המגדל הלבן והשטח שבעברו היה בית העלמין היהודי העתיק של העיר (כיום שטח האוניברסיטה).
 <p>מנקודת התצפית הזאת ניתן להתרשם גם מגודלה של העיר ומהשטח שעלה בלהבות בתבערת 1917.
 <p>
-<img src="assets/imgs/saloniky_yad_kula_view3.jpg">
+<img src="assets/imgs/saloniky/saloniky_yad_kula_view3.jpg">
 `;
 const SALONIKY_FREEDOM_CENTER = `
 <h2><b>λατεία Ελευθερίας</b></h2>
@@ -761,13 +761,13 @@ const AFTER_RELEASE = 'לאחר השחרור';
 const SALONIKY = {
     name: 'סלוניקי',
     description: _saloniky_description_data__WEBPACK_IMPORTED_MODULE_0__["SALONIKY_DESCRIPTION_DATA"],
-    titleImage: 'saloniki-title.png',
+    titleImage: 'saloniky/saloniki-title.png',
     categoryView: true,
     subtitles: [
         {
             title: 'המוזיאון היהודי',
             description: _saloniky_description_data__WEBPACK_IMPORTED_MODULE_0__["SALONIKY_MOSEON"],
-            image: "saloniky_jewish_musium.jpg",
+            image: "saloniky/saloniky_jewish_musium.jpg",
             playbacks: [
                 {
                     personId: 'mano',
@@ -786,7 +786,7 @@ const SALONIKY = {
         },
         {
             title: 'מתנות לאביונים',
-            image: 'saloniky_matanot_laevyonim.jpg',
+            image: 'saloniky/saloniky_matanot_laevyonim.jpg',
             description: _saloniky_description_data__WEBPACK_IMPORTED_MODULE_0__["SALONIKY_EVYONIM"],
             playbacks: [
                 {
@@ -822,7 +822,7 @@ const SALONIKY = {
         },
         {
             title: 'בית הכנסת מונסטירליס',
-            image: "saloniky_monastir_synagogue.jpg",
+            image: "saloniky/saloniky_monastir_synagogue.jpg",
             description: _saloniky_description_data__WEBPACK_IMPORTED_MODULE_0__["SALONIKY_MONSTIRELIS"],
             playbacks: [
                 {
@@ -842,7 +842,7 @@ const SALONIKY = {
         },
         {
             title: 'בתי העלמין בסלוניקי',
-            image: 'saloniky_new_cemetery.jpg',
+            image: 'saloniky/saloniky_new_cemetery.jpg',
             description: _saloniky_description_data__WEBPACK_IMPORTED_MODULE_0__["SALONIKY_NEW_CEMETRY"],
             playbacks: [
                 {
@@ -858,13 +858,13 @@ const SALONIKY = {
         },
         {
             title: 'המגדל הלבן',
-            image: 'saloniki_white_tower.jpg',
+            image: 'saloniky/saloniki_white_tower.jpg',
             description: _saloniky_description_data__WEBPACK_IMPORTED_MODULE_0__["SALONIKY_WHITE_TOWER"],
             playbacks: []
         },
         {
             title: 'כיכר החרות',
-            image: 'saloniky_freedon_square.jpg',
+            image: 'saloniky/saloniky_freedon_square.jpg',
             description: _saloniky_description_data__WEBPACK_IMPORTED_MODULE_0__["SALONIKY_FREEDOM_CENTER"],
             playbacks: [
                 {
@@ -884,7 +884,7 @@ const SALONIKY = {
         },
         {
             title: 'שכונת הברון הירש',
-            image: "saloniky_baron_hirsh.jpg",
+            image: "saloniky/saloniky_baron_hirsh.jpg",
             description: _saloniky_description_data__WEBPACK_IMPORTED_MODULE_0__["SALONIKY_BARON_HIRSH"],
             playbacks: [
                 {
@@ -925,7 +925,7 @@ const SALONIKY = {
         },
         {
             title: 'תחנת הרכבת הישנה',
-            image: 'saloniky_train_station_baron_hirsh3.jpg',
+            image: 'saloniky/saloniky_train_station_baron_hirsh3.jpg',
             description: _saloniky_description_data__WEBPACK_IMPORTED_MODULE_0__["SALONIKY_RAILWAY_STATION"],
             playbacks: [
                 {
@@ -959,7 +959,7 @@ const SALONIKY = {
         },
         {
             title: 'תצפית על העיר - אנופולי',
-            image: 'saloniky_yad_kula_view2.jpg',
+            image: 'saloniky/saloniky_yad_kula_view2.jpg',
             description: _saloniky_description_data__WEBPACK_IMPORTED_MODULE_0__["SALONIKY_ANO_POLI"],
             playbacks: [
                 {
@@ -971,13 +971,13 @@ const SALONIKY = {
         },
         {
             title: 'שוק מודיאנו',
-            image: 'saloniky_modiano_market.jpg',
+            image: 'saloniky/saloniky_modiano_market.jpg',
             description: _saloniky_description_data__WEBPACK_IMPORTED_MODULE_0__["SALONIKY_MODIANO_MARKET"],
             playbacks: []
         },
         {
             title: 'בית הכנסת יד לזיכרון',
-            image: null,
+            image: 'saloniky/saloniki_yad_lazikaron.JPG',
             description: _saloniky_description_data__WEBPACK_IMPORTED_MODULE_0__["SALONIKY_YAD_LAZIKARON"],
             playbacks: []
         }

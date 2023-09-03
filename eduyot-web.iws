@@ -2,7 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61e48c72-3b89-4b8b-b0de-2ec361188935" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniki-title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniki_white_tower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniki_yad_lazikaron.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_baron_hirsh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_freedon_square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_hospital_baron_hirsh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_hospital_hirsh_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_jewish_musium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_matanot_laevyonim.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_modiano_market.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_monastir_synagogue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_monastir_synagogue2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_new_cemetery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_new_cemetery1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_new_cemetery2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_old_cemetery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_old_cemetery1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_old_cemetery2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_train_station_baron_hirsh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_train_station_baron_hirsh2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_train_station_baron_hirsh3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_white_tower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_white_tower2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_yad_kula_view.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_yad_kula_view2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_yad_kula_view3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_yad_lazikaron1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/assets/imgs/saloniky/saloniky_yad_lazikaron2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eduyot-web.iws" beforeDir="false" afterPath="$PROJECT_DIR$/eduyot-web.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniki-title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniki_white_tower.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_baron_hirsh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_freedon_square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_hospital_baron_hirsh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_hospital_hirsh_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_jewish_musium.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_matanot_laevyonim.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_modiano_market.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_monastir_synagogue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_monastir_synagogue2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_new_cemetery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_new_cemetery1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_new_cemetery2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_old_cemetery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_old_cemetery1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_old_cemetery2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_train_station_baron_hirsh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_train_station_baron_hirsh2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_train_station_baron_hirsh3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_white_tower.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_white_tower2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_yad_kula_view.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_yad_kula_view2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_yad_kula_view3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_yad_lazikaron1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/imgs/saloniky_yad_lazikaron2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.js.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,16 +89,16 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/eduyot/github/eduyot-web/eduyot-web.ipr",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/eduyot/github/eduyot-web/eduyot-web.ipr&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,6 +116,8 @@
       <workItem from="1669735285742" duration="602000" />
       <workItem from="1683455143696" duration="1706000" />
       <workItem from="1693248162050" duration="1152000" />
+      <workItem from="1693512080202" duration="732000" />
+      <workItem from="1693755857449" duration="191000" />
     </task>
     <task id="LOCAL‎00001" summary="base">
       <created>1621884477004</created>
@@ -111,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693248705894</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new version">
+      <created>1693512213346</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693512213346</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
